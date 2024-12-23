@@ -8,3 +8,5 @@ This unique weatherstation has many abilities including the following:
 -> A humidity sensor.
 
 These unique abilities allow it to enhance the user experience and make life easier as you can now check the weather without any internet. 
+
+Will be updated with photos when the PCB arrives
